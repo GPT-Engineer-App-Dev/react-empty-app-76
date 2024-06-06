@@ -21,7 +21,7 @@ const Private = () => {
     <Container centerContent maxW="container.md" height="100vh" display="flex" flexDirection="column" justifyContent="center" alignItems="center">
       <VStack spacing={4}>
         <Heading as="h1" size="2xl">Private Page</Heading>
-        <Text fontSize="xl">Welcome to the private page!</Text>
+        <Text fontSize="xl">Private Only</Text>
       </VStack>
     </Container>
   );
